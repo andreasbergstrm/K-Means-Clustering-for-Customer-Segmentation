@@ -16,8 +16,6 @@
 
 ## EDA
 
-## Statistical Analysis
-
 ## Model Building
 
 K-Means Clustering
