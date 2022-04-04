@@ -16,6 +16,10 @@
 
 ## EDA
 
+![](ages_dist.png)
+
+![](dist.png)
+
 ## Model Building
 
 K-Means Clustering
