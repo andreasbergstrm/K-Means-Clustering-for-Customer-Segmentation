@@ -23,3 +23,5 @@
 ## Model Building
 
 K-Means Clustering
+
+![](customer_clustering.png)
