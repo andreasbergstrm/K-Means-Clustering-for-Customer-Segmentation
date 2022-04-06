@@ -9,10 +9,8 @@
 ## Code and Resources Used
 
 **Programming Language:** Python  
-**Packages:**  
+**Packages:** numpy, pandas, matplotlib, seaborn, scikit-learn  
 **Dataset Source:** https://www.kaggle.com/datasets/dev0914sharma/customer-clustering
-
-## Data Cleaning
 
 ## EDA
 
