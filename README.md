@@ -10,7 +10,7 @@ A short project where I use the unsupervised learning method K-Means clustering 
 **Dataset Source:** https://www.kaggle.com/datasets/dev0914sharma/customer-clustering
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights of age distributions and level of education.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights of age distributions and level of education.  
 ![](ages_dist_small.png)  
 ![](educ_dist.png)
 
