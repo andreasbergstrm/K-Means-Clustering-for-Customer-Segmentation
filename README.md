@@ -11,8 +11,8 @@ A short project where I use the unsupervised learning method K-Means clustering 
 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights of age distributions, hometown size and employment status.  
-![](ages_dist.png)
-![](dist-2.png)
+![](ages_dist.png)  
+![](dist.png)
 
 ## Model Building
 
