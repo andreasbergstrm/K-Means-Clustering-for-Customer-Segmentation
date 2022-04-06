@@ -1,10 +1,7 @@
 # K-Means Clustering for Customer Segmentation
 
 ## Overview
-* Data Cleaning
-* K-Means Clustering
-* Unsupervised Learning
-*
+A short project where I use the unsupervised learning method K-Means clustering to segment customers at a large mall based on age and income data. I also perform a exploratory data analysis to visualize further characteristics of the customers.
 
 ## Code and Resources Used
 
