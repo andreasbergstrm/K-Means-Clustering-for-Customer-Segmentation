@@ -18,4 +18,6 @@ I looked at the distributions of the data and the value counts for the various c
 
 K-Means Clustering
 
+
+![](wcss_curve.png)  
 ![](customer_clustering.png)
