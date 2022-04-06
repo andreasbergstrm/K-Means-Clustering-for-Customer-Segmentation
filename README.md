@@ -18,5 +18,5 @@ I looked at the distributions of the data and the value counts for the various c
 
 I computed the K-Means clustering for different values of K, ranging from 1 to 10 clusters. Then I calculated the total within-cluster sum of squares (WCSS) and plotted it against number of clusters, which can be seen below.  
 ![](wcss_curve.png)  
-Using the Elbow method I identified the location of the bend in the graph at K=4. The Elbow method says that the location of the bend is the indicator of an appropriate number of clusters. Then I plotted the KMeans with 4 clusters fitted on the age and income data.  
+Using the Elbow method I identified the location of the bend in the graph at K=4. The Elbow method says that the location of the bend is the indicator of an appropriate number of clusters. Then I plotted the KMeans with 4 clusters fitted on the age and income data. As seen below, the K-Means clustering method segmented the customers almost entirely based on income classes and not age, since the lines between the clusters were horizontal, thus unchanging with regards to age.  
 ![](customer_clustering.png)
